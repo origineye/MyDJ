@@ -15,3 +15,4 @@ else:
     print("Failed to retrieve the webpage")
     ingredient_list =""
 
+# use split() to extract specific words

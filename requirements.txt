@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+requests
+beautifulsoup4
+lxml
+opencv-python
+nltk
+spacy
+pytest  
+unittest2  
+mock  
